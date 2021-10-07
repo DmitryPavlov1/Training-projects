@@ -1,4 +1,4 @@
-# Исследование гипотез для интернет-магазина
+# Исследование заведений общепита
 ## Презентация
 Ссылка: https://drive.google.com/file/d/1wKOvA5zy8bC3SGGkHE0jsU5jijFbMrTY/view?usp=sharing
 ## Общие положения
